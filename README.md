@@ -1,6 +1,6 @@
 # nanograd
 
-Minimal, clean automatic differentiation and tiny neural nets in Python. Heavily inspired by Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd).
+Minimal, clean automatic differentiation and tiny neural nets in Python. Heavily inspired by Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd) implementation.
 
 This implementation was strictly for educational purposes, but nanograd can be used as a simple and interpretable learning library. Production-grade network training and inference should be done with a deep learning framework, like [JAX](https://github.com/ayushgun/learn-jax).
 
